@@ -1,0 +1,56 @@
+<resources>
+    <string name="app_name">MySelfApp</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="nav_header_desc">Navigation header</string>
+    <string name="action_settings">Settings</string>
+
+    <string name="menu_home">Home</string>
+    <string name="menu_gallery">Gallery</string>
+    <string name="menu_profile">Profile</string>
+    <string name="menu_daily_activity">Daily Activity</string>
+    <string name="menu_music">Music</string>
+
+
+    <string name="email">tiandrysimatupang753@gmail.com</string>
+    <string name="nama">Tiandry Simatupang</string>
+    <string name="hello_blank_fragment">hello_blank_fragment</string>
+    <!-- TODO: Remove or change this placeholder text -->
+
+    <string name="greeting">Halo semuanya </string>
+    <string name="welcome_text">Selamat data di myself apps.</string>
+
+    <string name="next">Next</string>
+
+    <string name="description_page2_onboarding"><![CDATA[Hobby, Dreams, & Daily.]]></string>
+    <string name="title_page2_onboarding">About me</string>
+    <string name="title_page3_onboarding"><![CDATA[Connect & Discover]]></string>
+    <string name="finish">Finish</string>
+
+
+    <string name="description">Description</string>
+    <string name="description_result">Saya Tiandry Simatupang, Saya adalah Mahasiswa S1 Teknik Informatika di Universitas Komputer Indonesia yang memiliki minat di bidang Teknik Informatika. Saya suka belajar hal baru, terutama yang berkaitan dengan teknologi, pemrograman, dan pengembangan aplikasi. Saya juga senang bekerja sama dalam tim dan selalu berusaha memberikan yang terbaik dalam setiap tugas. .</string>
+
+    <string name="hobi">Hobi</string>
+    <string name="gym">Liburan</string>
+    <string name="running">Running</string>
+    <string name="read">Santai</string>
+
+    <string name="ketertarikan">Tertarik</string>
+    <string name="mobile_dev">AI</string>
+    <string name="machine_learning">UI/UX</string>
+    <string name="back_end">Front end</string>
+
+    <string name="cita_cita">Cita cita</string>
+    <string name="pergi_ke_japan">Pergi ke Swiss</string>
+    <string name="pergi_ke_old_trafford">Jadi Bisnismen</string>
+
+    <string name="address">Bandung, Indonesia</string>
+    <string name="kontak">Kontak</string>
+    <string name="find_me">Find Me</string>
+    <string name="about">About</string>
+    <string name="version_0_1">Version 0.1</string>
+    <string name="musik_kesukaan_saya">Musik Kesukaan saya</string>
+    <string name="video_favorite">Video Favorite</string>
+
+</resources>
